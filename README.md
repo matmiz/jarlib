@@ -16,4 +16,4 @@ Planned features to be added
 1. Life cycle methods
 2. Context
 3. Refs
-4. Hooks(?) 
+4. Hooks(?)
