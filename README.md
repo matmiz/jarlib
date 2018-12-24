@@ -11,3 +11,9 @@ Every JARLIB Element has 2 mandatory properties:
 2. Props - an object of the properties of this element. Will be an empty object if no properties are attached to it. 
 Props will also have a special property called _children_ which will be an array of *JARLIB Elements*, which will represent the inner HTML of this Element.
 
+This is a very basic implementation. 
+Planned features to be added
+1. Life cycle methods
+2. Context
+3. Refs
+4. Hooks(?) 
